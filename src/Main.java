@@ -5,7 +5,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
 
-            //instância
+        //instância
         User user1 = new User("Judite");
         System.out.println(user1);
 
